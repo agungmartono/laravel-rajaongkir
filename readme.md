@@ -8,3 +8,11 @@
 </p>
 
 ## Sampel Laravel Rajaongkir Pro
+
+## Penggunaan
+- Clone  <a href="https://github.com/agungmartonosyn/laravel-rajaongkir.git">`git clone`</a> atau <a href="https://github.com/agungmartonosyn/laravel-rajaongkir/archive/master.zip">`download`</a>
+- Salin file `.env.example` file dan rename `.env`
+- Buka CMD and jalankan `composer update`
+- Buka CMD and jalankan `php artisan key:generate`
+- Daftar akun <a href="http://rajaongkir.com" target="_blank"> `rajaongkir` </a>
+- Tambahkan `RAJAONGKIR_API=ApiKeyAnda` di file `.env`
