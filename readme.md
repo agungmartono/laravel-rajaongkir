@@ -8,6 +8,7 @@
 </p>
 
 ## Sampel Laravel Rajaongkir Pro
+- Untuk demo <a href="https://laravel-rajaongkir.herokuapp.com">`laravel-rajaonkir.herokuapp.com`</a>
 
 ## Penggunaan
 - Clone  <a href="https://github.com/agungmartonosyn/laravel-rajaongkir.git">`git clone`</a> atau <a href="https://github.com/agungmartonosyn/laravel-rajaongkir/archive/master.zip">`download`</a>
